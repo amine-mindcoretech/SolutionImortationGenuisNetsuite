@@ -1,0 +1,22 @@
+# Node (server)
+server/node_modules/
+server/*.log
+server/npm-debug.log
+server/yarn-error.log
+
+# React (client)
+client/node_modules/
+client/.env
+client/build/
+client/dist/
+client/*.log
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# VSCode
+.vscode/
